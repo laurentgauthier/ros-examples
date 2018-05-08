@@ -1,0 +1,14 @@
+<package>
+  <name>example_srvs</name>
+  <version>1.0.0</version>
+  <description>Example services</description>
+
+  <maintainer email="laurent.gauthier@soccasys.com">Laurent Gauthier</maintainer>
+  <license>MIT</license>
+  <url type="website">http://soccasys.com</url>
+  <author email="laurent.gauthier@soccasys.com">Laurent Gauthier</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>message_generation</build_depend>
+  <run_depend>message_runtime</run_depend>
+</package>
